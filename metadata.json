@@ -1,0 +1,6 @@
+{
+  "name": "PassPulse - Dynamic QR Booking & Verification System",
+  "description": "Full-stack booking application featuring dynamic QR code generation, backend API integration, and gatekeeper verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
